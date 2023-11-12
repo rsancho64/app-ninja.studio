@@ -1,13 +1,11 @@
 
-# README mio: # Single Page App w React.js n CherryPy
+# README -my-: # Single Page App w React.js n CherryPy
 
-or **# Single Page App w React.js n CherryPy**
+Or **# Single Page App w React.js n CherryPy**
 
-[de este tutorial](https://www.codingninjas.com/studio/library/create-a-single-page-application-with-reactjs-in-cherrypy)
+Partimos de [este tutorial](https://www.codingninjas.com/studio/library/create-a-single-page-application-with-reactjs-in-cherrypy)
 
-## 
-
-`npx create-react-app app-name`
+## `npx create-react-app app-name`
 
 **salida:**
 
@@ -21,7 +19,6 @@ Creating a new React app in /home/ray/ninja/app-name.
 
 Installing packages. This might take a couple of minutes.
 Installing react, react-dom, and react-scripts with cra-template...
-
 
 added 1462 packages in 3m
 
@@ -37,7 +34,6 @@ added 69 packages, and changed 1 package in 24s
 246 packages are looking for funding
   run `npm fund` for details
 Removing template package using npm...
-
 
 removed 1 package, and audited 1531 packages in 3s
 
@@ -81,7 +77,6 @@ npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.2.3
 npm notice Run npm install -g npm@10.2.3 to update!
 npm notice 
 ```
-
 ## README heredado: 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -92,16 +87,13 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+Runs the app in the development mode: open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
