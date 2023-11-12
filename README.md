@@ -1,4 +1,88 @@
-# Getting Started with Create React App
+
+# README mio: # Single Page App w React.js n CherryPy
+
+or **# Single Page App w React.js n CherryPy**
+
+[de este tutorial](https://www.codingninjas.com/studio/library/create-a-single-page-application-with-reactjs-in-cherrypy)
+
+## 
+
+`npx create-react-app app-name`
+
+**salida:**
+
+```bash
+Need to install the following packages:
+create-react-app@5.0.1
+Ok to proceed? (y) y
+npm WARN deprecated tar@2.2.2: This version of tar is no longer supported, and will not receive security updates. Please upgrade asap.
+
+Creating a new React app in /home/ray/ninja/app-name.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+added 1462 packages in 3m
+
+242 packages are looking for funding
+  run `npm fund` for details
+
+Initialized a git repository.
+
+Installing template dependencies using npm...
+
+added 69 packages, and changed 1 package in 24s
+
+246 packages are looking for funding
+  run `npm fund` for details
+Removing template package using npm...
+
+
+removed 1 package, and audited 1531 packages in 3s
+
+246 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (2 moderate, 6 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+Created git commit.
+
+Success! Created app-name at /home/ray/ninja/app-name
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd app-name
+  npm start
+
+Happy hacking!
+npm notice 
+npm notice New minor version of npm available! 10.1.0 -> 10.2.3
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.2.3
+npm notice Run npm install -g npm@10.2.3 to update!
+npm notice 
+```
+
+## README heredado: 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
